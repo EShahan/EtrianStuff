@@ -63,5 +63,17 @@
             "MineS",
             "Airwalk"
         ]
+    },
+    "Protector": {
+        "skills":[
+            "HpUpP",
+            "TpUpP",
+            "StrUpL",
+            "VitUpL",
+            "TecUpL",
+            "AgiUpL",
+            "LucUpL",
+            "EscUpL"
+        ]
     }
 }

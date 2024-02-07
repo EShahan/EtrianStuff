@@ -2689,5 +2689,93 @@
             "Item Chance": ["100%", "102%", "104%", "106%", "110%", "111%", "112%", "113%", "114%", "120%"],
             "Daily Limit": ["2", "4", "6", "8", "10", "12", "14", "16", "18", "20"]
         }
+    },
+    "HpUpP": {
+        "Name": "HP Up",
+        "Description": "Increase maximum HP.",
+        "Type": "Stat Increase",
+        "MaxLevel": 10,
+        "Location": { "x":0, "y": 0},
+        "BoostAllowed": false,
+        "LevelData": {
+            "HP Increase": ["2%", "4%", "7%", "10%", "14%", "21%", "26%", "31%", "37%", "45%"]
+        }
+    },
+    "TpUpP": {
+        "Name": "TP Up",
+        "Description": "Increase maximum TP.",
+        "Type": "Stat Increase",
+        "MaxLevel": 10,
+        "Location": { "x":0, "y": 1},
+        "BoostAllowed": false,
+        "LevelData": {
+            "TP Increase": ["2%", "4%", "8%", "14%", "22%", "32%", "44%", "58%", "74%", "92%"]
+        }
+    },
+    "StrUpP": {
+        "Name": "STR Up",
+        "Description": "Increase Strength.",
+        "Type": "Stat Increase",
+        "MaxLevel": 10,
+        "Location": { "x":0, "y": 2},
+        "BoostAllowed": false,
+        "LevelData": {
+            "STR Increase": ["1", "2", "3", "4", "5", "6", "7", "8", "9", "10"]
+        }
+    },
+    "VitUpP": {
+        "Name": "VIT Up",
+        "Description": "Increase Vitality.",
+        "Type": "Stat Increase",
+        "MaxLevel": 10,
+        "Location": { "x":0, "y": 3},
+        "BoostAllowed": false,
+        "LevelData": {
+            "VIT Increase": ["1", "2", "3", "4", "5", "6", "7", "8", "9", "10"]
+        }
+    },
+    "TecUpP": {
+        "Name": "TEC Up",
+        "Description": "Increase Technique.",
+        "Type": "Stat Increase",
+        "MaxLevel": 10,
+        "Location": { "x":0, "y": 4},
+        "BoostAllowed": false,
+        "LevelData": {
+            "TEC Increase": ["1", "2", "3", "4", "5", "6", "7", "8", "9", "10"]
+        }
+    },
+    "AgiUpP": {
+        "Name": "AGI Up",
+        "Description": "Increase Agility.",
+        "Type": "Stat Increase",
+        "MaxLevel": 10,
+        "Location": { "x":0, "y": 5},
+        "BoostAllowed": false,
+        "LevelData": {
+            "AGI Increase": ["1", "2", "3", "4", "5", "6", "7", "8", "9", "10"]
+        }
+    },
+    "LucUpP": {
+        "Name": "LUC Up",
+        "Description": "Increase Luck.",
+        "Type": "Stat Increase",
+        "MaxLevel": 10,
+        "Location": { "x":0, "y": 6},
+        "BoostAllowed": false,
+        "LevelData": {
+            "LUC Increase": ["1", "2", "3", "4", "5", "6", "7", "8", "9", "10"]
+        }
+    },
+    "EscUpP": {
+        "Name": "Esc Up",
+        "Description": "Increase Escape.",
+        "Type": "Stat Increase",
+        "MaxLevel": 10,
+        "Location": { "x":0, "y": 7},
+        "BoostAllowed": false,
+        "LevelData": {
+            "Escape Up": ["130%"]
+        }
     }
 }
